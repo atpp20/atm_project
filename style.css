@@ -1,5 +1,4 @@
 
-
 .header-MRP{
     color:#1E1E1E;
     font-weight: 700;
@@ -110,7 +109,7 @@ body {
 }
 
 .control-button{
-    display: flex
+    display: flex;
 }
 
 .control-manual-word{ 
@@ -126,7 +125,7 @@ body {
     justify-content: center;
     align-items: center;
     display: inline-block;
-    text-align: center
+    text-align: center;
 
 }
 .control-auto-word{ 
@@ -141,7 +140,7 @@ body {
     justify-content: center;
     align-items: center;
     display: inline-block;
-    text-align: center
+    text-align: center;
 }
 
 .charge-1{
@@ -193,6 +192,7 @@ body {
     margin-left: 145px;
 }
 
+
 .switchMode{
     position: fixed;
     background-color: #fff;
@@ -204,6 +204,8 @@ body {
     position: fixed;
     margin-left: 1692px;
     margin-top: -90px;
+    max-width: 100%;
+    height: auto;
 }
 
 .switchMode2{
@@ -211,13 +213,15 @@ body {
     position: fixed;
     margin-left: 1692px;
     margin-top: -90px;
+    max-width: 100%;
+    height: auto;
 }
 
 .l-t-button1{
     display: none;
 }
 
-l-t-button2{
+.l-t-button2{
     display: block;
 }
 
@@ -225,16 +229,7 @@ l-t-button2{
     display: none;
 }
 
-l-m-button2{
-    display: block;
-}
-
-
-.r-t-button1{
-    display: none;
-}
-
-.r-t-button2{
+.l-m-button2{
     display: block;
 }
 
@@ -312,25 +307,25 @@ l-m-button2{
     .l-t-button1{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-t-button2{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-m-button1{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-m-button2{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .Geolocation{
@@ -342,24 +337,24 @@ l-m-button2{
     .r-t-button1{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-t-button2{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     .r-l-button1{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-l-button2{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     .right-button{
     padding-top: 60px;
@@ -421,7 +416,7 @@ l-m-button2{
     .charge-1{
         width: 18px;
         height: 18px;
-        margin-left: 4px
+        margin-left: 4px;
     }
     .charge-2{
        width: 18px;
@@ -449,25 +444,25 @@ l-m-button2{
     .l-t-button1{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-t-button2{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-m-button1{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-m-button2{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .Geolocation{
@@ -479,25 +474,25 @@ l-m-button2{
     .r-t-button1{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-t-button2{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-l-button1{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-l-button2{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
         .right-button{
     padding-top: 30px;
@@ -554,25 +549,25 @@ l-m-button2{
     .charge-1{
    width: 15px;
     height: 15px;
-        margin-left: 3px
+        margin-left: 3px;
 }
 
 .charge-2{
     width: 15px;
     height: 15px;
-    margin-left: 21px
+    margin-left: 21px;
 }
 
 .charge-3{
     width: 15px;
     height: 15px;
-    margin-left: 39px
+    margin-left: 39px;
 }
 
 .charge-4{
     width: 15px;
     height: 15px;
-    margin-left: 57px
+    margin-left: 57px;
 }
 
 .charge-5{
@@ -648,13 +643,13 @@ l-m-button2{
     .l-t-button1{
         width: 55px;
         height: 55px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-t-button2{
         width: 55px;
         height: 55px;
-        justify-content: center
+        justify-content: center;
     }
     .left-middle-button{
     margin-bottom: 20px;
@@ -707,7 +702,9 @@ l-m-button2{
     padding-top: 20px;
 }
     .left-button {
-        padding-top: 20px;}}
+        padding-top: 20px;
+    }
+}
     
 .coup-block{
     display: none;
@@ -722,7 +719,7 @@ l-m-button2{
     align-items: center;
     justify-content: center;
 }
-@media (max-width: 600px) {
+@media (max-device-width: 600px) {
     .coup-block{
         display: block;
         
@@ -730,5 +727,8 @@ l-m-button2{
     .header{
         display: none;
         justify-content: center;
+    }
+    .body{
+        background-color: #fff;
     }
 }

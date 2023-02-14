@@ -108,7 +108,7 @@ body {
 }
 
 .control-button{
-    display: flex
+    display: flex;
 }
 
 .control-manual-word{ 
@@ -124,7 +124,7 @@ body {
     justify-content: center;
     align-items: center;
     display: inline-block;
-    text-align: center
+    text-align: center;
 
 }
 .control-auto-word{ 
@@ -139,7 +139,7 @@ body {
     justify-content: center;
     align-items: center;
     display: inline-block;
-    text-align: center
+    text-align: center;
 }
 
 .charge-1{
@@ -306,25 +306,25 @@ body {
     .l-t-button1{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-t-button2{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-m-button1{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-m-button2{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .Geolocation{
@@ -336,24 +336,24 @@ body {
     .r-t-button1{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-t-button2{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     .r-l-button1{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-l-button2{
         width: 100px;
         height: 100px;
-        justify-content: center
+        justify-content: center;
     }
     .right-button{
     padding-top: 60px;
@@ -443,25 +443,25 @@ body {
     .l-t-button1{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-t-button2{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-m-button1{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-m-button2{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .Geolocation{
@@ -473,25 +473,25 @@ body {
     .r-t-button1{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-t-button2{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-l-button1{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
     
     .r-l-button2{
         width: 70px;
         height: 70px;
-        justify-content: center
+        justify-content: center;
     }
         .right-button{
     padding-top: 30px;
@@ -548,31 +548,31 @@ body {
     .charge-1{
    width: 15px;
     height: 15px;
-        margin-left: 3px
+        margin-left: 3px;
 }
 
 .charge-2{
     width: 15px;
     height: 15px;
-    margin-left: 21px
+    margin-left: 21px;
 }
 
 .charge-3{
     width: 15px;
     height: 15px;
-    margin-left: 39px
+    margin-left: 39px;
 }
 
 .charge-4{
     width: 15px;
     height: 15px;
-    margin-left: 57px
+    margin-left: 57px;
 }
 
 .charge-5{
     width: 15px;
     height: 15px;
-    margin-left: 75px
+    margin-left: 75px;
 }
     .left-top-button{
     margin-bottom: 30px;
@@ -642,13 +642,13 @@ body {
     .l-t-button1{
         width: 55px;
         height: 55px;
-        justify-content: center
+        justify-content: center;
     }
     
     .l-t-button2{
         width: 55px;
         height: 55px;
-        justify-content: center
+        justify-content: center;
     }
     .left-middle-button{
     margin-bottom: 20px;
@@ -701,7 +701,9 @@ body {
     padding-top: 20px;
 }
     .left-button {
-        padding-top: 20px;}}
+        padding-top: 20px;
+    }
+}
     
 .coup-block{
     display: none;
