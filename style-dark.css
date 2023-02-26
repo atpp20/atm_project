@@ -616,14 +616,14 @@ body {
        .switchMode1{
     display: block;
     position: fixed;
-    margin-left: 622px;
+    margin-left: 582px;
     margin-top: -50px;
     }
 
 .switchMode2{
     display: none;
     position: fixed;
-    margin-left: 622px;
+    margin-left: 582px;
     margin-top: -50px;
     }
     .control-manual-word{
@@ -704,6 +704,8 @@ body {
         padding-top: 20px;
     }
 }
+
+
     
 .coup-block{
     display: none;

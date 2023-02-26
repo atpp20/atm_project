@@ -7,16 +7,16 @@
 }
 body {
     font-family: 'Montserrat', sans-serif;
-  background-color: #fff;
+    background-color: #fff;
     margin: 0px;
     justify-content: center;
-        display: flex;
+    display: flex;
 }
 
 .MRP-number{
     background-color: #9B9B9B;
-
 }
+
 .header-object{
     color:#3D3D3D;
     font-weight: 500;
@@ -48,7 +48,6 @@ body {
 }
 .Geolocation{
     color: #fff;
-    
     width: 204px;
     height: 195px;
     background-color: #575757;
@@ -272,27 +271,28 @@ body {
         margin-top: 63px;
     }
     .switchMode1{
-    display: none;
-    position: fixed;
-    margin-left: 1392px;
-    margin-top: -80px;
+        display: none;
+        position: fixed;
+        margin-left: 1392px;
+        margin-top: -80px;
         width: 3%;
-            height: auto;
+        height: auto;
     }
 
-.switchMode2{
+    .switchMode2{
     display: block;
     position: fixed;
     margin-left: 1392px;
     margin-top: -80px;
     width: 3%;
-            height: auto;
+    height: auto;
     }
     
     .control{
         margin-top: 20px;
     }
-.centr-screen{
+
+    .centr-screen{
         margin: 0px 10px;
     }
     .control-word{
@@ -369,10 +369,10 @@ body {
         margin-top: 53px;
     }
         .switchMode1{
-    display: none;
-    position: fixed;
-    margin-left: 1132px;
-    margin-top: -60px;
+            display: none;
+            position: fixed;
+            margin-left: 1132px;
+            margin-top: -60px;
             width: 3%;
             height: auto;
     }
@@ -383,7 +383,7 @@ body {
     margin-left: 1132px;
     margin-top: -60px;
     width: 3%;
-            height: auto;
+    height: auto;
     }
     .control{
         margin-top: 10px;
@@ -617,14 +617,14 @@ body {
        .switchMode1{
     display: none;
     position: fixed;
-    margin-left: 622px;
+    margin-left: 582px;
     margin-top: -50px;
     }
 
 .switchMode2{
     display: block;
     position: fixed;
-    margin-left: 622px;
+    margin-left: 582px;
     margin-top: -50px;
     }
     .control-manual-word{
@@ -705,6 +705,7 @@ body {
         padding-top: 20px;
     }
 }
+
     
 .coup-block{
     display: none;
